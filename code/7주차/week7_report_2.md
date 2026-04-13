@@ -114,3 +114,5 @@
 회원 ──(이용하다)── 플레이이력 ──(발생하다)── 게임  
 게임 ──(포함하다)── 버전  
 회사 ──(개발하다)── 게임
+<img width="2878" height="1538" alt="image" src="https://github.com/user-attachments/assets/76eebf6d-89dd-4a5f-b226-73d7d83990ed" />
+
